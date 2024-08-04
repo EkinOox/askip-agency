@@ -1,0 +1,30 @@
+[01/May/2022:14:25:18] (I): WordPress Instance Info:
+[01/May/2022:14:25:18] (I): Home URL : https://www.askipagency.com
+[01/May/2022:14:25:18] (I): Site URL : https://www.askipagency.com
+[01/May/2022:14:25:18] (I): WordPress Version : 5.9.3
+[01/May/2022:14:25:18] (I): Onboarding Version : 1.1.21
+[01/May/2022:14:25:18] (I): Multisite : No
+[01/May/2022:14:25:18] (I): Server Info : Apache
+[01/May/2022:14:25:18] (I): PHP Version : 8.0.18
+[01/May/2022:14:25:18] (I): HTTPS : Yes
+[01/May/2022:14:25:18] (I): PHP Max Execution Time : 50000
+[01/May/2022:14:25:18] (I): PHP Max Input Vars : 5000
+[01/May/2022:14:25:18] (I): Max Upload Size : 67108864
+[01/May/2022:14:25:18] (I): Plugins:
+[01/May/2022:14:25:18] (I): [PLUGIN] Akismet Anti-Spam : v4.2.3 (Automattic)
+[01/May/2022:14:25:18] (I): [PLUGIN] Starter Templates : v3.1.8 (Brainstorm Force)
+[01/May/2022:14:25:18] (I): [PLUGIN] WP Customer Area : v8.1.2 (Foobar Studio)
+[01/May/2022:14:25:18] (I): [PLUGIN] Elementor : v3.6.4 (Elementor.com)
+[01/May/2022:14:25:18] (I): [PLUGIN] EWWW Image Optimizer : v6.5.0 (Exactement WWW)
+[01/May/2022:14:25:18] (I): [PLUGIN] Google Language Translator : v6.0.14 (Translate AI Multilingual Solutions)
+[01/May/2022:14:25:18] (I): [PLUGIN] Elementor Header &amp; Footer Builder : v1.6.10 (Brainstorm Force, Nikhil Chavan)
+[01/May/2022:14:25:18] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v2.0.2 (ThemeIsle)
+[01/May/2022:14:25:18] (I): [PLUGIN] Sticky Menu (or Anything!) on Scroll : v2.31 (WebFactory Ltd)
+[01/May/2022:14:25:18] (I): [PLUGIN] Templates Patterns Collection : v1.1.21 (ThemeIsle)
+[01/May/2022:14:25:18] (I): [PLUGIN] Orbit Fox Companion : v2.10.11 (Themeisle)
+[01/May/2022:14:25:18] (I): [PLUGIN] En Haut (To Top) : v2.4 (Catch Plugins)
+[01/May/2022:14:25:18] (I): [PLUGIN] WordPress Importer : v0.7 (wordpressdotorg)
+[01/May/2022:14:25:18] (I): [PLUGIN] Yoast SEO : v18.6 (L’équipe Yoast)
+[01/May/2022:14:25:18] (I): [PLUGIN] WP Mail SMTP : v3.3.0 (WPForms)
+[01/May/2022:14:25:18] (I): [PLUGIN] WP-Members : v3.4.1.2 (Chad Butler)
+[01/May/2022:14:25:18] (I): [PLUGIN] WPForms Lite : v1.7.3 (WPForms)
